@@ -106,8 +106,8 @@ functionally complete
 Boolean functions can be constructed from. Later, Charles Sanders
 Peirce (during 1880 -- 1881) proved that either Boolean function
 of NOR or NAND alone is enough to create all other Boolean logic
-functions. Thus NOR and NAND gates are functionally complete Peirce (1933)
-. Gates are simply the implementations of Boolean logic
+functions. Thus NOR and NAND gates are functionally complete. 
+Gates are simply the implementations of Boolean logic
 functions, therefore NAND or NOR gate is enough to implement all
 other logic gates. The simplest gates CMOS circuit can implement
 are inverters (NOT gates) and from the inverters, comes NAND
